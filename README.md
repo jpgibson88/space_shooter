@@ -28,3 +28,7 @@ This was developed using the latest version of python. You may need install a th
     
 ## Collisions:
 * The player can collide with all NPC types
+
+## Controls
+* Move: WASD
+* Shoot: Left click
