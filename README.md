@@ -29,6 +29,10 @@ This was developed using the latest version of python. You may need install a th
 ## Collisions:
 * The player can collide with all NPC types
 
-## Controls
+## Controls:
 * Move: WASD
 * Shoot: Left click
+
+## Assets Used: 
+* Big Alien Ship: https://free-game-assets.itch.io/free-enemy-spaceship-2d-sprites-pixel-art
+* Background and all other sprites: https://ansimuz.itch.io/
